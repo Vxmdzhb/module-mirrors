@@ -2,6 +2,8 @@
 
 Signed onion-mirror list with its admin editor — the **Mirrors** module of [AstrX](https://github.com/Vxmdzhb/astrx).
 
+![The signed list of onion addresses](docs/screenshot.png)
+
 - Module key: `mirrors` (switch it on in the site's `resources/config/Modules.config.php`)
 - Pages: `admin_mirrors`, `mirrors`
 - Requires: `astrx/cms`, `astrx/framework`, `astrx/library`
